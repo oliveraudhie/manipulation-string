@@ -7,6 +7,6 @@ console.log(b);
 const c = a + 'sih' + b
 const d = `${a} ${b}`
 // level 2
-console.log(a.toUppercase());
-console.log(b.toUppercase());
+console.log(a.toUpperCase());
+console.log(b.toUpperCase());
 // level 3
